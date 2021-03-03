@@ -1,4 +1,4 @@
-#Project Management App
+# Project Management App
 
 This project is to manage(CRUD) projects and manage tasks too. Like a simple backlog management.
 This project uses MySQL, in this case we use XAMPP and TablePlus to configurate the DB.
